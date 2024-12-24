@@ -1,0 +1,167 @@
+2024-12-24 01:36:17,408 - INFO - Loading pool file.
+2024-12-24 01:36:17,414 - INFO - Deduplicated matches from 32 to 16 unique matches.
+2024-12-24 01:36:17,415 - INFO - Loading player stats.
+2024-12-24 01:36:17,427 - INFO - Simulating matches.
+2024-12-24 01:36:17,431 - INFO - Simulated match: Bernarda Pera vs Evgeniya Rodina | Winner: Bernarda Pera | Points: 63.90 | Stats: Aces=16, DoubleFaults=1, Breaks=2, GamesWon=6, SetsWon=2
+2024-12-24 01:36:17,434 - INFO - Simulated match: Irina-Camelia Begu vs Alexandra Eala | Winner: Irina-Camelia Begu | Points: 56.60 | Stats: Aces=9, DoubleFaults=2, Breaks=0, GamesWon=2, SetsWon=2
+2024-12-24 01:36:17,438 - INFO - Simulated match: Elise Mertens vs Alycia Parks | Winner: Alycia Parks | Points: 30.90 | Stats: Aces=6, DoubleFaults=1, Breaks=0, GamesWon=11, SetsWon=0
+2024-12-24 01:36:17,441 - INFO - Simulated match: Viktorija Golubic vs Hailey Baptiste | Winner: Hailey Baptiste | Points: 31.80 | Stats: Aces=7, DoubleFaults=0, Breaks=0, GamesWon=5, SetsWon=0
+2024-12-24 01:36:17,443 - INFO - Simulated match: Linda Fruhvirtova vs Katherine Sebov | Winner: Linda Fruhvirtova | Points: 58.05 | Stats: Aces=7, DoubleFaults=2, Breaks=1, GamesWon=5, SetsWon=2
+2024-12-24 01:36:17,446 - INFO - Simulated match: Anna Kalinskaya vs Victoria Jimenez Kasintseva | Winner: Anna Kalinskaya | Points: 64.85 | Stats: Aces=9, DoubleFaults=1, Breaks=5, GamesWon=9, SetsWon=2
+2024-12-24 01:36:17,449 - INFO - Simulated match: Lauren Davis vs Anna-Karolina Schmiedlova | Winner: Anna-Karolina Schmiedlova | Points: 30.30 | Stats: Aces=7, DoubleFaults=1, Breaks=0, GamesWon=9, SetsWon=0
+2024-12-24 01:36:17,452 - INFO - Simulated match: Jasmine Paolini vs Mirjam Bjorklund | Winner: Mirjam Bjorklund | Points: 27.30 | Stats: Aces=7, DoubleFaults=1, Breaks=0, GamesWon=3, SetsWon=0
+2024-12-24 01:36:17,455 - INFO - Simulated match: Marta Kostyuk vs Elisabetta Cocciaretto | Winner: Marta Kostyuk | Points: 59.60 | Stats: Aces=9, DoubleFaults=1, Breaks=0, GamesWon=6, SetsWon=2
+2024-12-24 01:36:17,459 - INFO - Simulated match: Camila Giorgi vs Kaia Kanepi | Winner: Camila Giorgi | Points: 59.70 | Stats: Aces=3, DoubleFaults=0, Breaks=0, GamesWon=4, SetsWon=2
+2024-12-24 01:36:17,472 - INFO - Simulated match: Katerina Siniakova vs Claire Liu | Winner: Katerina Siniakova | Points: 63.10 | Stats: Aces=14, DoubleFaults=1, Breaks=0, GamesWon=9, SetsWon=2
+2024-12-24 01:36:17,476 - INFO - Simulated match: Yulia Putintseva vs Rebecca Marino | Winner: Yulia Putintseva | Points: 63.85 | Stats: Aces=4, DoubleFaults=0, Breaks=3, GamesWon=7, SetsWon=2
+2024-12-24 01:36:17,480 - INFO - Simulated match: Tereza Martincova vs Tamara Korpatsch | Winner: Tamara Korpatsch | Points: 34.45 | Stats: Aces=8, DoubleFaults=0, Breaks=1, GamesWon=8, SetsWon=0
+2024-12-24 01:36:17,484 - INFO - Simulated match: Laura Siegemund vs Mayar Sherif | Winner: Mayar Sherif | Points: 33.95 | Stats: Aces=8, DoubleFaults=0, Breaks=1, GamesWon=7, SetsWon=0
+2024-12-24 01:36:17,487 - INFO - Simulated match: Xiyu Wang vs Brenda Fruhvirtova | Winner: Brenda Fruhvirtova | Points: 31.40 | Stats: Aces=11, DoubleFaults=1, Breaks=2, GamesWon=5, SetsWon=0
+2024-12-24 01:36:17,490 - INFO - Simulated match: Nao Hibino vs Danka Kovinic | Winner: Danka Kovinic | Points: 28.55 | Stats: Aces=7, DoubleFaults=2, Breaks=1, GamesWon=6, SetsWon=0
+2024-12-24 01:36:17,490 - INFO - Saving results.
+2024-12-24 01:36:17,494 - INFO - Simulation results saved to data/simulated_matches.csv
+2024-12-24 01:36:17,504 - INFO - Verification Summary:
+2024-12-24 01:36:17,505 - INFO - Match: Bernarda Pera vs Evgeniya Rodina | Points: 63.9 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,506 - INFO - Match: Irina-Camelia Begu vs Alexandra Eala | Points: 56.6 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,506 - INFO - Match: Elise Mertens vs Alycia Parks | Points: 30.9 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,506 - INFO - Match: Viktorija Golubic vs Hailey Baptiste | Points: 31.8 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,507 - INFO - Match: Linda Fruhvirtova vs Katherine Sebov | Points: 58.05 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,507 - INFO - Match: Anna Kalinskaya vs Victoria Jimenez Kasintseva | Points: 64.85 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,507 - INFO - Match: Lauren Davis vs Anna-Karolina Schmiedlova | Points: 30.3 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,507 - INFO - Match: Jasmine Paolini vs Mirjam Bjorklund | Points: 27.3 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,508 - INFO - Match: Marta Kostyuk vs Elisabetta Cocciaretto | Points: 59.6 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,508 - INFO - Match: Camila Giorgi vs Kaia Kanepi | Points: 59.7 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,508 - INFO - Match: Katerina Siniakova vs Claire Liu | Points: 63.1 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,508 - INFO - Match: Yulia Putintseva vs Rebecca Marino | Points: 63.85 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,509 - INFO - Match: Tereza Martincova vs Tamara Korpatsch | Points: 34.45 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,509 - INFO - Match: Laura Siegemund vs Mayar Sherif | Points: 33.95 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,509 - INFO - Match: Xiyu Wang vs Brenda Fruhvirtova | Points: 31.4 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,510 - INFO - Match: Nao Hibino vs Danka Kovinic | Points: 28.55 | ImpliedWinPercentage: None
+2024-12-24 01:36:17,510 - INFO - Verification complete.
+2024-12-24 01:36:46,041 - INFO - Loading pool file.
+2024-12-24 01:36:46,048 - INFO - Deduplicated matches from 32 to 16 unique matches.
+2024-12-24 01:36:46,048 - INFO - Loading player stats.
+2024-12-24 01:36:46,060 - INFO - Simulating matches.
+2024-12-24 01:36:46,064 - INFO - Simulated match: Bernarda Pera vs Evgeniya Rodina | Winner: Bernarda Pera | Points: 62.60 | Stats: Aces=4, DoubleFaults=1, Breaks=2, GamesWon=13, SetsWon=2
+2024-12-24 01:36:46,067 - INFO - Simulated match: Irina-Camelia Begu vs Alexandra Eala | Winner: Irina-Camelia Begu | Points: 57.10 | Stats: Aces=4, DoubleFaults=1, Breaks=0, GamesWon=5, SetsWon=2
+2024-12-24 01:36:46,071 - INFO - Simulated match: Elise Mertens vs Alycia Parks | Winner: Alycia Parks | Points: 29.15 | Stats: Aces=11, DoubleFaults=2, Breaks=1, GamesWon=4, SetsWon=0
+2024-12-24 01:36:46,075 - INFO - Simulated match: Viktorija Golubic vs Hailey Baptiste | Winner: Hailey Baptiste | Points: 33.10 | Stats: Aces=4, DoubleFaults=1, Breaks=2, GamesWon=14, SetsWon=0
+2024-12-24 01:36:46,077 - INFO - Simulated match: Linda Fruhvirtova vs Katherine Sebov | Winner: Linda Fruhvirtova | Points: 63.00 | Stats: Aces=5, DoubleFaults=0, Breaks=0, GamesWon=9, SetsWon=2
+2024-12-24 01:36:46,080 - INFO - Simulated match: Anna Kalinskaya vs Victoria Jimenez Kasintseva | Winner: Anna Kalinskaya | Points: 63.60 | Stats: Aces=9, DoubleFaults=0, Breaks=0, GamesWon=7, SetsWon=2
+2024-12-24 01:36:46,082 - INFO - Simulated match: Lauren Davis vs Anna-Karolina Schmiedlova | Winner: Lauren Davis | Points: 61.50 | Stats: Aces=5, DoubleFaults=2, Breaks=4, GamesWon=9, SetsWon=2
+2024-12-24 01:36:46,085 - INFO - Simulated match: Jasmine Paolini vs Mirjam Bjorklund | Winner: Mirjam Bjorklund | Points: 32.40 | Stats: Aces=11, DoubleFaults=1, Breaks=0, GamesWon=10, SetsWon=0
+2024-12-24 01:36:46,089 - INFO - Simulated match: Marta Kostyuk vs Elisabetta Cocciaretto | Winner: Marta Kostyuk | Points: 62.75 | Stats: Aces=5, DoubleFaults=0, Breaks=1, GamesWon=7, SetsWon=2
+2024-12-24 01:36:46,092 - INFO - Simulated match: Camila Giorgi vs Kaia Kanepi | Winner: Camila Giorgi | Points: 58.85 | Stats: Aces=9, DoubleFaults=1, Breaks=1, GamesWon=3, SetsWon=2
+2024-12-24 01:36:46,094 - INFO - Simulated match: Katerina Siniakova vs Claire Liu | Winner: Claire Liu | Points: 27.75 | Stats: Aces=5, DoubleFaults=2, Breaks=1, GamesWon=6, SetsWon=0
+2024-12-24 01:36:46,098 - INFO - Simulated match: Yulia Putintseva vs Rebecca Marino | Winner: Rebecca Marino | Points: 40.50 | Stats: Aces=10, DoubleFaults=0, Breaks=4, GamesWon=14, SetsWon=0
+2024-12-24 01:36:46,101 - INFO - Simulated match: Tereza Martincova vs Tamara Korpatsch | Winner: Tamara Korpatsch | Points: 32.65 | Stats: Aces=6, DoubleFaults=0, Breaks=1, GamesWon=6, SetsWon=0
+2024-12-24 01:36:46,104 - INFO - Simulated match: Laura Siegemund vs Mayar Sherif | Winner: Mayar Sherif | Points: 36.25 | Stats: Aces=10, DoubleFaults=0, Breaks=1, GamesWon=10, SetsWon=0
+2024-12-24 01:36:46,107 - INFO - Simulated match: Xiyu Wang vs Brenda Fruhvirtova | Winner: Brenda Fruhvirtova | Points: 34.05 | Stats: Aces=7, DoubleFaults=0, Breaks=1, GamesWon=8, SetsWon=0
+2024-12-24 01:36:46,111 - INFO - Simulated match: Nao Hibino vs Danka Kovinic | Winner: Danka Kovinic | Points: 33.75 | Stats: Aces=5, DoubleFaults=0, Breaks=3, GamesWon=6, SetsWon=0
+2024-12-24 01:36:46,111 - INFO - Saving results.
+2024-12-24 01:36:46,115 - INFO - Simulation results saved to data/simulated_matches.csv
+2024-12-24 01:36:46,123 - INFO - Verification Summary:
+2024-12-24 01:36:46,124 - INFO - Match: Bernarda Pera vs Evgeniya Rodina | Points: 62.6 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,124 - INFO - Match: Irina-Camelia Begu vs Alexandra Eala | Points: 57.1 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,125 - INFO - Match: Elise Mertens vs Alycia Parks | Points: 29.15 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,125 - INFO - Match: Viktorija Golubic vs Hailey Baptiste | Points: 33.1 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,125 - INFO - Match: Linda Fruhvirtova vs Katherine Sebov | Points: 63.0 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,126 - INFO - Match: Anna Kalinskaya vs Victoria Jimenez Kasintseva | Points: 63.6 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,126 - INFO - Match: Lauren Davis vs Anna-Karolina Schmiedlova | Points: 61.5 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,126 - INFO - Match: Jasmine Paolini vs Mirjam Bjorklund | Points: 32.4 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,127 - INFO - Match: Marta Kostyuk vs Elisabetta Cocciaretto | Points: 62.75 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,127 - INFO - Match: Camila Giorgi vs Kaia Kanepi | Points: 58.85 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,127 - INFO - Match: Katerina Siniakova vs Claire Liu | Points: 27.75 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,127 - INFO - Match: Yulia Putintseva vs Rebecca Marino | Points: 40.5 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,128 - INFO - Match: Tereza Martincova vs Tamara Korpatsch | Points: 32.65 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,128 - INFO - Match: Laura Siegemund vs Mayar Sherif | Points: 36.25 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,128 - INFO - Match: Xiyu Wang vs Brenda Fruhvirtova | Points: 34.05 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,129 - INFO - Match: Nao Hibino vs Danka Kovinic | Points: 33.75 | ImpliedWinPercentage: None
+2024-12-24 01:36:46,129 - INFO - Verification complete.
+2024-12-24 02:26:13,064 - INFO - Loading pool file.
+2024-12-24 02:26:13,072 - INFO - Deduplicated matches from 32 to 16 unique matches.
+2024-12-24 02:26:13,072 - INFO - Loading player stats.
+2024-12-24 02:26:13,086 - INFO - Simulating matches.
+2024-12-24 02:26:13,089 - INFO - Simulated match: Bernarda Pera vs Evgeniya Rodina | Winner: Bernarda Pera | Points: 73.15 | Stats: Aces=6, DoubleFaults=0, Breaks=3, GamesWon=8, SetsWon=2
+2024-12-24 02:26:13,090 - INFO - Simulated match: Irina-Camelia Begu vs Alexandra Eala | Winner: Irina-Camelia Begu | Points: 86.75 | Stats: Aces=10, DoubleFaults=0, Breaks=1, GamesWon=11, SetsWon=2
+2024-12-24 02:26:13,094 - INFO - Simulated match: Elise Mertens vs Alycia Parks | Winner: Elise Mertens | Points: 75.75 | Stats: Aces=10, DoubleFaults=1, Breaks=3, GamesWon=9, SetsWon=2
+2024-12-24 02:26:13,099 - INFO - Simulated match: Viktorija Golubic vs Hailey Baptiste | Winner: Viktorija Golubic | Points: 63.65 | Stats: Aces=6, DoubleFaults=1, Breaks=1, GamesWon=7, SetsWon=2
+2024-12-24 02:26:13,101 - INFO - Simulated match: Linda Fruhvirtova vs Katherine Sebov | Winner: Linda Fruhvirtova | Points: 76.15 | Stats: Aces=6, DoubleFaults=0, Breaks=1, GamesWon=9, SetsWon=2
+2024-12-24 02:26:13,103 - INFO - Simulated match: Anna Kalinskaya vs Victoria Jimenez Kasintseva | Winner: Victoria Jimenez Kasintseva | Points: 24.45 | Stats: Aces=8, DoubleFaults=2, Breaks=1, GamesWon=5, SetsWon=0
+2024-12-24 02:26:13,105 - INFO - Simulated match: Lauren Davis vs Anna-Karolina Schmiedlova | Winner: Lauren Davis | Points: 81.65 | Stats: Aces=6, DoubleFaults=1, Breaks=1, GamesWon=11, SetsWon=2
+2024-12-24 02:26:13,107 - INFO - Simulated match: Jasmine Paolini vs Mirjam Bjorklund | Winner: Jasmine Paolini | Points: 64.50 | Stats: Aces=10, DoubleFaults=1, Breaks=0, GamesWon=7, SetsWon=2
+2024-12-24 02:26:13,111 - INFO - Simulated match: Marta Kostyuk vs Elisabetta Cocciaretto | Winner: Marta Kostyuk | Points: 69.05 | Stats: Aces=7, DoubleFaults=0, Breaks=3, GamesWon=7, SetsWon=2
+2024-12-24 02:26:13,114 - INFO - Simulated match: Camila Giorgi vs Kaia Kanepi | Winner: Camila Giorgi | Points: 69.85 | Stats: Aces=9, DoubleFaults=0, Breaks=3, GamesWon=7, SetsWon=2
+2024-12-24 02:26:13,119 - INFO - Simulated match: Katerina Siniakova vs Claire Liu | Winner: Katerina Siniakova | Points: 84.10 | Stats: Aces=9, DoubleFaults=0, Breaks=4, GamesWon=10, SetsWon=2
+2024-12-24 02:26:13,123 - INFO - Simulated match: Yulia Putintseva vs Rebecca Marino | Winner: Yulia Putintseva | Points: 96.75 | Stats: Aces=10, DoubleFaults=0, Breaks=3, GamesWon=12, SetsWon=2
+2024-12-24 02:26:13,126 - INFO - Simulated match: Tereza Martincova vs Tamara Korpatsch | Winner: Tereza Martincova | Points: 74.70 | Stats: Aces=8, DoubleFaults=0, Breaks=4, GamesWon=8, SetsWon=2
+2024-12-24 02:26:13,130 - INFO - Simulated match: Laura Siegemund vs Mayar Sherif | Winner: Mayar Sherif | Points: 43.05 | Stats: Aces=7, DoubleFaults=1, Breaks=1, GamesWon=9, SetsWon=0
+2024-12-24 02:26:13,135 - INFO - Simulated match: Xiyu Wang vs Brenda Fruhvirtova | Winner: Brenda Fruhvirtova | Points: 20.70 | Stats: Aces=8, DoubleFaults=2, Breaks=2, GamesWon=4, SetsWon=0
+2024-12-24 02:26:13,138 - INFO - Simulated match: Nao Hibino vs Danka Kovinic | Winner: Nao Hibino | Points: 62.55 | Stats: Aces=17, DoubleFaults=0, Breaks=1, GamesWon=5, SetsWon=2
+2024-12-24 02:26:13,138 - INFO - Saving results.
+2024-12-24 02:26:13,141 - INFO - Simulation results saved to data/simulated_matches.csv
+2024-12-24 02:30:21,629 - INFO - Loading pool file.
+2024-12-24 02:30:21,634 - INFO - Deduplicated matches from 32 to 16 unique matches.
+2024-12-24 02:30:21,634 - INFO - Loading player stats.
+2024-12-24 02:30:21,644 - INFO - Simulating matches.
+2024-12-24 02:30:21,647 - INFO - Simulated match: Bernarda Pera vs Evgeniya Rodina | Winner: Bernarda Pera | Points: 62.25 | Stats: Aces=5, DoubleFaults=0, Breaks=1, GamesWon=6, SetsWon=2
+2024-12-24 02:30:21,649 - INFO - Simulated match: Irina-Camelia Begu vs Alexandra Eala | Winner: Irina-Camelia Begu | Points: 75.70 | Stats: Aces=3, DoubleFaults=0, Breaks=2, GamesWon=9, SetsWon=2
+2024-12-24 02:30:21,652 - INFO - Simulated match: Elise Mertens vs Alycia Parks | Winner: Elise Mertens | Points: 70.85 | Stats: Aces=4, DoubleFaults=0, Breaks=1, GamesWon=8, SetsWon=2
+2024-12-24 02:30:21,656 - INFO - Simulated match: Viktorija Golubic vs Hailey Baptiste | Winner: Viktorija Golubic | Points: 70.50 | Stats: Aces=10, DoubleFaults=1, Breaks=2, GamesWon=8, SetsWon=2
+2024-12-24 02:30:21,658 - INFO - Simulated match: Linda Fruhvirtova vs Katherine Sebov | Winner: Linda Fruhvirtova | Points: 49.20 | Stats: Aces=8, DoubleFaults=0, Breaks=0, GamesWon=3, SetsWon=2
+2024-12-24 02:30:21,660 - INFO - Simulated match: Anna Kalinskaya vs Victoria Jimenez Kasintseva | Winner: Anna Kalinskaya | Points: 69.35 | Stats: Aces=4, DoubleFaults=2, Breaks=5, GamesWon=8, SetsWon=2
+2024-12-24 02:30:21,661 - INFO - Simulated match: Lauren Davis vs Anna-Karolina Schmiedlova | Winner: Lauren Davis | Points: 82.25 | Stats: Aces=10, DoubleFaults=0, Breaks=1, GamesWon=10, SetsWon=2
+2024-12-24 02:30:21,664 - INFO - Simulated match: Jasmine Paolini vs Mirjam Bjorklund | Winner: Jasmine Paolini | Points: 52.50 | Stats: Aces=5, DoubleFaults=0, Breaks=0, GamesWon=4, SetsWon=2
+2024-12-24 02:30:21,668 - INFO - Simulated match: Marta Kostyuk vs Elisabetta Cocciaretto | Winner: Marta Kostyuk | Points: 56.30 | Stats: Aces=12, DoubleFaults=1, Breaks=0, GamesWon=5, SetsWon=2
+2024-12-24 02:30:21,670 - INFO - Simulated match: Camila Giorgi vs Kaia Kanepi | Winner: Camila Giorgi | Points: 76.60 | Stats: Aces=9, DoubleFaults=0, Breaks=0, GamesWon=9, SetsWon=2
+2024-12-24 02:30:21,674 - INFO - Simulated match: Katerina Siniakova vs Claire Liu | Winner: Katerina Siniakova | Points: 71.30 | Stats: Aces=12, DoubleFaults=1, Breaks=2, GamesWon=8, SetsWon=2
+2024-12-24 02:30:21,678 - INFO - Simulated match: Yulia Putintseva vs Rebecca Marino | Winner: Rebecca Marino | Points: 29.25 | Stats: Aces=5, DoubleFaults=0, Breaks=3, GamesWon=5, SetsWon=0
+2024-12-24 02:30:21,681 - INFO - Simulated match: Tereza Martincova vs Tamara Korpatsch | Winner: Tereza Martincova | Points: 62.95 | Stats: Aces=3, DoubleFaults=0, Breaks=3, GamesWon=6, SetsWon=2
+2024-12-24 02:30:21,685 - INFO - Simulated match: Laura Siegemund vs Mayar Sherif | Winner: Laura Siegemund | Points: 90.95 | Stats: Aces=8, DoubleFaults=1, Breaks=1, GamesWon=12, SetsWon=2
+2024-12-24 02:30:21,689 - INFO - Simulated match: Xiyu Wang vs Brenda Fruhvirtova | Winner: Xiyu Wang | Points: 76.60 | Stats: Aces=14, DoubleFaults=1, Breaks=2, GamesWon=9, SetsWon=2
+2024-12-24 02:30:21,691 - INFO - Simulated match: Nao Hibino vs Danka Kovinic | Winner: Nao Hibino | Points: 67.60 | Stats: Aces=9, DoubleFaults=0, Breaks=0, GamesWon=7, SetsWon=2
+2024-12-24 02:30:21,691 - INFO - Saving match-level results.
+2024-12-24 02:30:21,694 - INFO - Match-level results saved to data/simulated_matches.csv
+2024-12-24 02:30:21,696 - INFO - Player-level results saved to data/player_scores.csv
+2024-12-24 02:33:05,111 - INFO - Loading pool file.
+2024-12-24 02:33:05,116 - INFO - Deduplicated matches from 32 to 16 unique matches.
+2024-12-24 02:33:05,116 - INFO - Loading player stats.
+2024-12-24 02:33:05,126 - INFO - Simulating matches.
+2024-12-24 02:33:05,129 - ERROR - Error simulating match for Bernarda Pera vs Evgeniya Rodina: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,131 - ERROR - Error simulating match for Irina-Camelia Begu vs Alexandra Eala: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,133 - ERROR - Error simulating match for Elise Mertens vs Alycia Parks: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,136 - ERROR - Error simulating match for Viktorija Golubic vs Hailey Baptiste: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,138 - ERROR - Error simulating match for Linda Fruhvirtova vs Katherine Sebov: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,140 - ERROR - Error simulating match for Anna Kalinskaya vs Victoria Jimenez Kasintseva: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,142 - ERROR - Error simulating match for Lauren Davis vs Anna-Karolina Schmiedlova: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,144 - ERROR - Error simulating match for Jasmine Paolini vs Mirjam Bjorklund: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,146 - ERROR - Error simulating match for Marta Kostyuk vs Elisabetta Cocciaretto: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,149 - ERROR - Error simulating match for Camila Giorgi vs Kaia Kanepi: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,151 - ERROR - Error simulating match for Katerina Siniakova vs Claire Liu: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,154 - ERROR - Error simulating match for Yulia Putintseva vs Rebecca Marino: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,156 - ERROR - Error simulating match for Tereza Martincova vs Tamara Korpatsch: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,158 - ERROR - Error simulating match for Laura Siegemund vs Mayar Sherif: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,161 - ERROR - Error simulating match for Xiyu Wang vs Brenda Fruhvirtova: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,163 - ERROR - Error simulating match for Nao Hibino vs Danka Kovinic: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:33:05,166 - INFO - Player-level results saved to data/player_scores.csv
+2024-12-24 02:34:48,765 - INFO - Loading pool file.
+2024-12-24 02:34:48,770 - INFO - Deduplicated matches from 32 to 16 unique matches.
+2024-12-24 02:34:48,770 - INFO - Loading player stats.
+2024-12-24 02:34:48,780 - INFO - Simulating matches.
+2024-12-24 02:34:48,783 - ERROR - Error simulating match for Bernarda Pera vs Evgeniya Rodina: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,785 - ERROR - Error simulating match for Irina-Camelia Begu vs Alexandra Eala: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,788 - ERROR - Error simulating match for Elise Mertens vs Alycia Parks: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,790 - ERROR - Error simulating match for Viktorija Golubic vs Hailey Baptiste: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,792 - ERROR - Error simulating match for Linda Fruhvirtova vs Katherine Sebov: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,794 - ERROR - Error simulating match for Anna Kalinskaya vs Victoria Jimenez Kasintseva: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,796 - ERROR - Error simulating match for Lauren Davis vs Anna-Karolina Schmiedlova: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,798 - ERROR - Error simulating match for Jasmine Paolini vs Mirjam Bjorklund: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,800 - ERROR - Error simulating match for Marta Kostyuk vs Elisabetta Cocciaretto: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,803 - ERROR - Error simulating match for Camila Giorgi vs Kaia Kanepi: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,805 - ERROR - Error simulating match for Katerina Siniakova vs Claire Liu: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,807 - ERROR - Error simulating match for Yulia Putintseva vs Rebecca Marino: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,809 - ERROR - Error simulating match for Tereza Martincova vs Tamara Korpatsch: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,812 - ERROR - Error simulating match for Laura Siegemund vs Mayar Sherif: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,815 - ERROR - Error simulating match for Xiyu Wang vs Brenda Fruhvirtova: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,817 - ERROR - Error simulating match for Nao Hibino vs Danka Kovinic: index 0 is out of bounds for axis 0 with size 0
+2024-12-24 02:34:48,820 - INFO - Player-level results saved to data/player_scores.csv

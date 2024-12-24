@@ -1,0 +1,33 @@
+Name,Opponent,Surface,ImpliedWinPercentage,Elo,ServiceGamesWon,ReturnGamesWon,StatsSource
+Bernarda Pera,Evgeniya Rodina,Clay,65.0,1730,0.552,0.388,Database
+Evgeniya Rodina,Bernarda Pera,Clay,35.0,1275,0.51,0.297,Estimated
+Irina-Camelia Begu,Alexandra Eala,Hard,58.0,1723,0.7,0.41,Database
+Alexandra Eala,Irina-Camelia Begu,Hard,42.0,1380,0.552,0.322,Estimated
+Elise Mertens,Alycia Parks,Grass,63.0,1775,0.628,0.452,Database
+Alycia Parks,Elise Mertens,Grass,37.0,1479,0.601,0.296,Database
+Viktorija Golubic,Hailey Baptiste,Hard,55.0,1655,0.784,0.288,Database
+Hailey Baptiste,Viktorija Golubic,Hard,45.0,1652,0.704,0.278,Database
+Linda Fruhvirtova,Katherine Sebov,Hard,67.0,1579,0.619,0.297,Database
+Katherine Sebov,Linda Fruhvirtova,Hard,33.0,1245,0.498,0.29,Estimated
+Anna Kalinskaya,Victoria Jimenez Kasintseva,Clay,70.0,1835,0.742,0.339,Database
+Victoria Jimenez Kasintseva,Anna Kalinskaya,Clay,30.0,1200,0.48,0.28,Estimated
+Lauren Davis,Anna-Karolina Schmiedlova,Hard,60.0,1603,0.605,0.305,Database
+Anna-Karolina Schmiedlova,Lauren Davis,Hard,40.0,1678,0.603,0.416,Database
+Jasmine Paolini,Mirjam Bjorklund,Grass,56.0,1842,0.671,0.418,Database
+Mirjam Bjorklund,Jasmine Paolini,Grass,44.0,1410,0.564,0.329,Estimated
+Marta Kostyuk,Elisabetta Cocciaretto,Clay,72.0,1893,0.578,0.337,Database
+Elisabetta Cocciaretto,Marta Kostyuk,Clay,28.0,1655,0.619,0.406,Database
+Camila Giorgi,Kaia Kanepi,Hard,66.0,1727,0.625,0.388,Database
+Kaia Kanepi,Camila Giorgi,Hard,34.0,1260,0.504,0.294,Estimated
+Katerina Siniakova,Claire Liu,Clay,61.0,1758,0.491,0.418,Database
+Claire Liu,Katerina Siniakova,Clay,39.0,1669,0.574,0.409,Database
+Yulia Putintseva,Rebecca Marino,Grass,57.0,1786,0.659,0.416,Database
+Rebecca Marino,Yulia Putintseva,Grass,43.0,1574,0.641,0.213,Database
+Tereza Martincova,Tamara Korpatsch,Hard,65.0,1585,0.787,0.258,Database
+Tamara Korpatsch,Tereza Martincova,Hard,35.0,1577,0.525,0.458,Database
+Laura Siegemund,Mayar Sherif,Grass,54.0,1767,0.529,0.439,Database
+Mayar Sherif,Laura Siegemund,Grass,46.0,1692,0.649,0.394,Database
+Xiyu Wang,Brenda Fruhvirtova,Hard,68.0,1725,0.671,0.214,Database
+Brenda Fruhvirtova,Xiyu Wang,Hard,32.0,1755,0.607,0.339,Database
+Nao Hibino,Danka Kovinic,Clay,59.0,1662,0.615,0.355,Database
+Danka Kovinic,Nao Hibino,Clay,41.0,1364,0.546,0.318,Estimated
